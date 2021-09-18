@@ -1,0 +1,1 @@
+This is Landing Page project of the odin project.
